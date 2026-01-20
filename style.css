@@ -160,10 +160,10 @@ body.active{
 	border-radius: 30px;
 	position:relative;
 	left:40px;
-	box-shadow: 0 0 7px rgba(0,0,0,.9);
+	/* box-shadow: 0 0 7px rgba(0,0,0,.9); */
 	/*max-width:33.33%;*/
-	background-color:#1a1a1a;
-	filter:brightness(135%) contrast(110%) blur(0.2px);
+	/* background-color:#1a1a1a; */
+	filter:brightness(115%) contrast(100%) blur(0px);
 }
 
 .details .text-wrapper{
